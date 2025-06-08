@@ -61,25 +61,28 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
 
 ### Research Assistant — Reinforcement Learning & Algorithm Analysis  
 **San Diego State University** · Aug 2024 – May 2025  
-- Designed ARIMA & XGBoost forecasting models on 2 M-row datasets, unlocking **15%** uplift in resource allocation  
-- Instrumented Prometheus exporters & built Grafana alert dashboards—cutting anomaly detection time by **40%**  
-- Led weekly scoping sessions with PMs & engineers, reducing data-ingestion latency by **20%** and delivering roadmaps 2 weeks early
+- Built and optimized distributed training pipelines for deep learning models (TensorFlow, PyTorch) on GPU clusters using Docker, GCP, and Kubernetes; integrated model quantization and compression for efficient serving.  
+- Developed backend and online serving frameworks for ML model inference, deploying models with TensorRT and vLLM for accelerated performance.  
+- Evaluated and debugged deep learning models for computer vision and NLP tasks, accelerating experimentation with automated infra.  
+- Leveraged CUDA for GPU kernel optimization, improving model training and inference speed.  
 
 ### Data Science & Analytics Intern — Digital Innovation Lab  
 **San Diego State University** · Oct 2023 – May 2024  
-- Built 3 Tableau dashboards and 1 Grafana+PromQL dashboard to monitor KPI & error rates—reducing incident response by **25%**  
-- Validated & reconciled 100 K+ EMR & Salesforce records, boosting data accuracy to **98%** for pharmacy KPI reports  
-- Identified a 20% spike in processing errors via log analysis; enhanced dashboards to slash resolution time by **30%**
+- Designed data models and dashboards, integrating multi-source data using Python, SQL, and Power BI.  
+- Automated reporting with Power Automate and Docker, reducing cycle time by 40%. 
+- Developed model evaluation and verification tools for distributed AI datasets, applying model inference and debugging practices.  
+- Assisted in automating AI infrastructure with Docker and cloud for rapid ML experimentation.  
 
 ### Project Engineer  
 **Wipro Ltd.** · May 2022 – Jul 2023  
-- Developed Azure Data Factory ETL pipelines ingesting 50 K+ daily telemetry events into Snowflake  
-- Created 3 Grafana dashboards for SREs to monitor CPU, memory, and network metrics; improved alert true-positive rate by **15%**  
-- Facilitated daily stand-ups and telemetry metric design with cross-functional teams
+- Managed scalable ML model training and inference pipelines using Docker, GCP, AWS, and Kubernetes; applied model distillation and quantization for efficient deployment. 
+- Implemented backend services for real-time ML serving, benchmarking, and validation; supported cloud-based distributed ML serving and monitoring.  
+- Enhanced distributed ML infrastructure and experimentation pipelines through cross-functional collaboration.  
 
 ### Project Intern  
 **Wipro Ltd.** · Feb 2022 – Apr 2022  
-- Optimized ETL jobs to reduce runtime from 3 h to 1.5 h, ensuring 99% data availability for real-time Grafana visualizations
+- Authored technical process flows and user stories, consolidated into Confluence to guide agile software development.  
+- Built model-driven Power Apps and automated notification workflows with Azure Logic Apps, SQL, and Python.
 
 ---
 
