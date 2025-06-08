@@ -30,9 +30,9 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
   <img src="https://img.shields.io/badge/PromQL-xxxxxx?logo=prometheus&logoColor=white" alt="PromQL" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Tableau-4E9BCD?logo=tableau&logoColor=white" alt="Tableau" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Snowflake-39B7E1?logo=snowflake&logoColor=white" alt="Snowflake" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure SQL" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white" alt="MySQL" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Databricks-FF6F00?logo=databricks&logoColor=white" alt="Databricks" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20EMR-FF9900?logo=amazon-aws&logoColor=white" alt="AWS EMR" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20EMR-FF9900?logo=amazon-aws&logoColor=white" alt="EMR" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="32" />&nbsp;
@@ -50,6 +50,9 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
   <img src="https://img.shields.io/badge/Stakeholder%20Communication-6D9EEB?logo=communication&logoColor=white" alt="Stakeholder Communication" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Agile%20Support-FCA121?logo=agile&logoColor=white" alt="Agile Support" height="32" />&nbsp;
   <img src="https://img.shields.io/badge/Requirement%20Gathering-8E44AD?logo=clipboard&logoColor=white" alt="Requirement Gathering" height="32" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/ML%20Models-4B8BBE?logo=scikit-learn&logoColor=white" alt="ML Models" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?logo=amazon-aws&logoColor=white" alt="AWS Cloud" height="32" />
 </p>
 
 ---
