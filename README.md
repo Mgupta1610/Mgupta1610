@@ -11,11 +11,9 @@
          alt="GitHub" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:mehakgupta1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail"
-         alt="Email" height="40" />
-  </a>
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:mehakgupta1999@gmail.com)
 </p>
+
 
 ---
 
