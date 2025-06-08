@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github"
          alt="GitHub" height="40" />
   </a>
-  &nbsp;
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:mehakgupta1999@gmail.com)
 </p>
 
 
