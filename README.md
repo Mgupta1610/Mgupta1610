@@ -89,4 +89,25 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
 ## 🏆 Certifications
 - IBM Data Analysis Professional Certificate (Apr 2024)  
 - Google Data Analytics Professional Certificate (Mar 2024)  
-- AWS Certified Cloud Practitioner (May 2024)  
+- AWS Certified Cloud Practitioner (May 2024)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mgupta1610\
+&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+    alt="Mehak's GitHub Stats" 
+  />
+</p>
+
+## 💬 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgupta1610\
+&layout=compact&theme=dark" 
+    alt="Mehak's Top Languages" 
+  />
+</p>
+
