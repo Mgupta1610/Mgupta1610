@@ -10,16 +10,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github"
          alt="GitHub" height="40" />
   </a>
+  &nbsp;
   <a href="mailto:mehakgupta1999@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square"
-    alt="Email"
-    height="40"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square"
+         alt="Gmail" height="40" />
+  </a>
 </p>
-
-
 ---
 
 ## 🚀 About Me
