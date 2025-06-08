@@ -16,7 +16,6 @@
          alt="Gmail" height="40" />
   </a>
 </p>
----
 
 ## 🚀 About Me
 I’m a passionate Data Analytics professional with an MS in Computer Science (Data Analytics & ML) from San Diego State University. I love turning raw data into clear, actionable insights—whether that’s crafting real-time dashboards or building reports that tell a story. I thrive on collaborating with product managers and engineers to ask the right questions, define metrics, and deliver solutions that move the needle. When I’m not knee-deep in PromQL or SQL queries, you’ll find me exploring new visualization tools, honing my Python skills, or earning the next certification to level up my toolkit.
