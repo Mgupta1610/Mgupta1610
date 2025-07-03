@@ -60,29 +60,16 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
 ## 🙌 Experience
 
 ### Research Assistant — Reinforcement Learning & Algorithm Analysis  
-**San Diego State University** · Aug 2024 – May 2025  
-- Built and optimized distributed training pipelines for deep learning models (TensorFlow, PyTorch) on GPU clusters using Docker, GCP, and Kubernetes; integrated model quantization and compression for efficient serving.  
-- Developed backend and online serving frameworks for ML model inference, deploying models with TensorRT and vLLM for accelerated performance.  
-- Evaluated and debugged deep learning models for computer vision and NLP tasks, accelerating experimentation with automated infra.  
-- Leveraged CUDA for GPU kernel optimization, improving model training and inference speed.  
+**San Diego State University** · Aug 2024 – May 2025
 
 ### Data Science & Analytics Intern — Digital Innovation Lab  
 **San Diego State University** · Oct 2023 – May 2024  
-- Designed data models and dashboards, integrating multi-source data using Python, SQL, and Power BI.  
-- Automated reporting with Power Automate and Docker, reducing cycle time by 40%. 
-- Developed model evaluation and verification tools for distributed AI datasets, applying model inference and debugging practices.  
-- Assisted in automating AI infrastructure with Docker and cloud for rapid ML experimentation.  
 
 ### Project Engineer  
-**Wipro Ltd.** · May 2022 – Jul 2023  
-- Managed scalable ML model training and inference pipelines using Docker, GCP, AWS, and Kubernetes; applied model distillation and quantization for efficient deployment. 
-- Implemented backend services for real-time ML serving, benchmarking, and validation; supported cloud-based distributed ML serving and monitoring.  
-- Enhanced distributed ML infrastructure and experimentation pipelines through cross-functional collaboration.  
+**Wipro Ltd.** · May 2022 – Jul 2023 
 
 ### Project Intern  
 **Wipro Ltd.** · Feb 2022 – Apr 2022  
-- Authored technical process flows and user stories, consolidated into Confluence to guide agile software development.  
-- Built model-driven Power Apps and automated notification workflows with Azure Logic Apps, SQL, and Python.
 
 ---
 
