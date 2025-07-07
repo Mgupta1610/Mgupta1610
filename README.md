@@ -72,19 +72,29 @@ Data professional with 2 years of experience in analytics, machine learning, and
 
 ---
 
-## 🙌 Experience
+## 💼 Experience
 
-### Research Assistant — Reinforcement Learning & Algorithm Analysis  
-**San Diego State University** · Aug 2024 – May 2025
+### 🎓 Research Assistant — Reinforcement Learning & Algorithm Analysis  
+**San Diego State University** &nbsp; | &nbsp; *Aug 2024 – May 2025*  
+<sub><img src="https://img.shields.io/badge/Role-Research%20Assistant-8B5CF6?style=flat-square&logo=academia&logoColor=white"/></sub>
 
-### Data Science & Analytics Intern — Digital Innovation Lab  
-**San Diego State University** · Oct 2023 – May 2024  
+---
 
-### Project Engineer  
-**Wipro Ltd.** · May 2022 – Jul 2023 
+### 📊 Data Science & Analytics Intern — Digital Innovation Lab  
+**San Diego State University** &nbsp; | &nbsp; *Oct 2023 – May 2024*  
+<sub><img src="https://img.shields.io/badge/Internship-Data%20Science%20Intern-4E9BCD?style=flat-square&logo=databricks&logoColor=white"/></sub>
 
-### Project Intern  
-**Wipro Ltd.** · Feb 2022 – Apr 2022  
+---
+
+### 🛠️ Project Engineer  
+**Wipro Ltd.** &nbsp; | &nbsp; *May 2022 – Jul 2023*  
+<sub><img src="https://img.shields.io/badge/Project%20Engineer-Wipro-00BCD4?style=flat-square&logo=wipro&logoColor=white"/></sub>
+
+---
+
+### 🧪 Project Intern  
+**Wipro Ltd.** &nbsp; | &nbsp; *Feb 2022 – Apr 2022*  
+<sub><img src="https://img.shields.io/badge/Internship-Project%20Intern-FCA121?style=flat-square&logo=training&logoColor=white"/></sub>
 
 ---
 
