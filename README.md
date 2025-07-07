@@ -18,7 +18,7 @@
 </p>
 
 ## 🚀 About Me
-I’m a passionate Data Analytics professional with an MS in Computer Science (Data Analytics & ML) from San Diego State University. I love turning raw data into clear, actionable insights—whether that’s crafting real-time dashboards or building reports that tell a story. I thrive on collaborating with product managers and engineers to ask the right questions, define metrics, and deliver solutions that move the needle. When I’m not knee-deep in PromQL or SQL queries, you’ll find me exploring new visualization tools, honing my Python skills, or earning the next certification to level up my toolkit.
+Data professional with 2 years of experience in analytics, machine learning, and data pipeline automation. Proficient in Python, SQL, and cloud platforms (AWS, GCP, Azure). Skilled in dashboarding, statistical testing, and deploying ML models to production. Passionate about driving decisions through data storytelling and real-time insights.
 
 ---
 
@@ -69,8 +69,6 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
 <img src="https://img.shields.io/badge/Google%20Data%20Analytics-34A853?logo=google&logoColor=white" height="30"/>
 
 </p>
-
-
 
 ---
 
