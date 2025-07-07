@@ -22,38 +22,65 @@ I’m a passionate Data Analytics professional with an MS in Computer Science (D
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-<p align="left">
-  <!-- Existing badges -->
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/PromQL-xxxxxx?logo=prometheus&logoColor=white" alt="PromQL" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-4E9BCD?logo=tableau&logoColor=white" alt="Tableau" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Snowflake-39B7E1?logo=snowflake&logoColor=white" alt="Snowflake" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white" alt="MySQL" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Databricks-FF6F00?logo=databricks&logoColor=white" alt="Databricks" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20EMR-FF9900?logo=amazon-aws&logoColor=white" alt="EMR" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/VBA-867DB1?logo=visual-basic&logoColor=white" alt="VBA" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Cursor-AUTO?logo=github&logoColor=white" alt="Cursor" height="32" />
+**Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SAS-000000?logo=sas&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="25"/>
 
-  <!-- New unique skills -->
-  <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SSMS" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Prometheus-000000?logo=prometheus&logoColor=white" alt="Prometheus" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure Data Factory" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/KPI%20Reporting-00BCD4?logo=analytics&logoColor=white" alt="Real-Time KPI Reporting" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Stakeholder%20Communication-6D9EEB?logo=communication&logoColor=white" alt="Stakeholder Communication" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Agile%20Support-FCA121?logo=agile&logoColor=white" alt="Agile Support" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/Requirement%20Gathering-8E44AD?logo=clipboard&logoColor=white" alt="Requirement Gathering" height="32" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/ML%20Models-4B8BBE?logo=scikit-learn&logoColor=white" alt="ML Models" height="32" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?logo=amazon-aws&logoColor=white" alt="AWS Cloud" height="32" />
-</p>
+**Databases & Query Engines:**  
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Snowflake-39B7E1?logo=snowflake&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?logo=amazonaws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoft-sql-server&logoColor=white" height="25"/>
+
+**Tools & Visualization:**  
+<img src="https://img.shields.io/badge/Tableau-4E9BCD?logo=tableau&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VBA-867DB1?logo=visual-basic&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/QuickSight-FF9900?logo=amazon-aws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="25"/>
+
+**Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Seaborn-1E90FF?logo=python&logoColor=white" height="25"/>
+
+**Cloud Platforms & DevOps:**  
+<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?logo=amazon-aws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoft-azure&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/EMR-FF9900?logo=amazon-aws&logoColor=white" height="25"/>
+
+**Soft & Professional Skills:**  
+<img src="https://img.shields.io/badge/Stakeholder%20Communication-6D9EEB?logo=communication&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Requirement%20Gathering-8E44AD?logo=clipboard&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Agile%20Support-FCA121?logo=agile&logoColor=white" height="25"/>
+
+**Certifications & Techniques:**  
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Google%20Data%20Analytics-34A853?logo=google&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-00BCD4?logo=analytics&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/A/B%20Testing-FF7043?logo=experiment&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Forecasting-2196F3?logo=chart&logoColor=white" height="25"/>
+
+
 
 ---
 
