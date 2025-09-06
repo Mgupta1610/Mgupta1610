@@ -74,8 +74,8 @@ Data professional with 2 years of experience in analytics, machine learning, and
 
 ## 💼 Experience
 
-### 🎓 Research Assistant — Reinforcement Learning & Algorithm Analysis  
-**San Diego State University** &nbsp; | &nbsp; *Aug 2024 – May 2025*  
+### 🎓 Graduate Research Assistant - Data Analytics
+**San Diego State University** &nbsp; | &nbsp; *Aug 2024 – Present*  
 
 ---
 
