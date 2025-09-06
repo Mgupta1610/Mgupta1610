@@ -85,12 +85,12 @@ Data professional with 2 years of experience in analytics, machine learning, and
 ---
 
 ### 🛠️ Data Analyst  
-**Wipro Ltd.** &nbsp; | &nbsp; *May 2022 – Jul 2023*  
+**Wipro** &nbsp; | &nbsp; *May 2022 – Jul 2023*  
 
 ---
 
 ### 🧪 Data Analyst Intern  
-**Wipro Ltd.** &nbsp; | &nbsp; *Feb 2022 – Apr 2022*  
+**Wipro** &nbsp; | &nbsp; *Feb 2022 – Apr 2022*  
 
 ---
 
