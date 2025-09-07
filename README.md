@@ -1,4 +1,4 @@
-<p align="center"># Hey 👋, I’m **Mehak Gupta!**
+<p align="center"> Hey 👋, I’m **Mehak Gupta!**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehak-gupta-10973a19a/">
