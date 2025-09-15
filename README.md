@@ -1,22 +1,4 @@
-<p align="center"> Hey 👋, I’m Mehak Gupta!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehak-gupta-10973a19a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin"
-         alt="LinkedIn" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mgupta1610">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github"
-         alt="GitHub" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:mehakgupta1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square"
-         alt="Gmail" height="40" />
-  </a>
-</p>
-
+<h1 style="font-size: 3em;">Hey 👋, I’m Mehak Gupta!</h1>
 ## 🚀 About Me
 Data professional with 2 years of experience in analytics, machine learning, and data pipeline automation. Proficient in Python, SQL, and cloud platforms (AWS, GCP, Azure). Skilled in dashboarding, statistical testing, and deploying ML models to production. Passionate about driving decisions through data storytelling and real-time insights.
 
