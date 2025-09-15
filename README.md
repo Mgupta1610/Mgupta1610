@@ -1,6 +1,6 @@
 <h1 align = center style="font-size: 3em;">Hey 👋, I’m Mehak Gupta!</h1>
-## 🚀 About Me
-Data professional with 2 years of experience in analytics, machine learning, and data pipeline automation. Proficient in Python, SQL, and cloud platforms (AWS, GCP, Azure). Skilled in dashboarding, statistical testing, and deploying ML models to production. Passionate about driving decisions through data storytelling and real-time insights.
+ 🚀 About Me
+<h2 style="font-size: 2em"> Data professional with 2 years of experience in analytics, machine learning, and data pipeline automation. Proficient in Python, SQL, and cloud platforms (AWS, GCP, Azure). Skilled in dashboarding, statistical testing, and deploying ML models to production. Passionate about driving decisions through data storytelling and real-time insights.
 
 ---
 
