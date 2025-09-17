@@ -1,6 +1,6 @@
 <h1 align = center style="font-size: 3em;">Hey 👋, I’m Mehak Gupta!</h1>
  🚀 About Me
-<h3 style="font-size: 1em"> 
+<h3 style="font-size: 1em"> I'm a Data & AI Storyteller. I bring a unique blend of technical expertise and business acumen to every project, uncovering hidden patterns and turning data into compelling narratives that drive strategic decisions and tangible results.
 
 ---
 
