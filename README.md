@@ -79,19 +79,19 @@
 
 ## 🤖 Machine Learning & AI
 
-- [InsightFlow — GenAI-Driven Data Retrieval]()  
+- [InsightFlow — GenAI-Driven Data Retrieval](https://github.com/Mgupta1610/InsightFlow-GenAI-Driven-Data-Retrieval)  
   RAG-style retrieval app to chat over documents using embeddings and a vector store.
 
-- [QueryGenius — LLM Database Interaction]()  
+- [QueryGenius — LLM Database Interaction](https://github.com/Mgupta1610/QueryGenius-LLM-Based-Database-Interaction)  
   Natural-language-to-SQL interface to query relational data with guardrails and validation.
 
-- [SmartSuggest — ML-Based Recommendation Engine]()  
+- [SmartSuggest — ML-Based Recommendation Engine](https://github.com/Mgupta1610/SmartSuggest-ML-Based-Personalized-Recommendation-Engine)  
   Personalized recommendations via collaborative/content filtering in notebooks.
 
-- [Real-Time Underwater Object Detection (YOLOv5/YOLOv8)]()  
+- [Real-Time Underwater Object Detection (YOLOv5/YOLOv8)](https://github.com/Mgupta1610/Real-Time-Underwater-Object-Detection-with-YOLOv5-YOLOv8)  
   YOLO-based detector for underwater scenes with live inference.
 
-- [PricePulse — Predict Airbnb Prices]()  
+- [PricePulse — Predict Airbnb Prices](https://github.com/Mgupta1610/Price-Pulse-Predict-Airbnb-Prices)  
   Feature-engineered regression to forecast Airbnb listing prices.
 
 ---
