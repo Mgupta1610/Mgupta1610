@@ -55,36 +55,46 @@
 ---
 ## 🚀 Data Engineering & Analytics
 
-- [SynchIn: Supply Chain Visibility](https://github.com/<username>/SynchIn-Supply-Chain-Visibility) — Tableau dashboard to monitor stock, evaluate suppliers, and analyze sales trends.
+- [SynchIn: Supply Chain Visibility](https://github.com/Mgupta1610/Synch-In-Supply-Chain-Visibility)  
+  Tableau dashboard to monitor stock, evaluate suppliers, and analyze sales trends.
 
-- [Real-Time Insurance Data ETL (Snowflake + Airflow)](https://github.com/<username>/Real-Time-Insurance-ETL-Snowflake) — Airflow → S3 → Snowflake pipeline with schema checks, CDC (Streams/Tasks), and Tableau-ready models.
+- [Real-Time Insurance Data ETL (Snowflake + Airflow)](https://github.com/Mgupta1610/Real-Time-Insurance-Claims-Data-ETL-Pipeline)  
+  Airflow → S3 → Snowflake pipeline with schema checks, CDC (Streams/Tasks), and Tableau-ready models.
 
-- [Walmart Sales Analysis (SQL)](https://github.com/<username>/Walmart-Sales-Analysis-SQL) — SQL analyses of product lines, sales trends, and customer segments with time-of-day/day/month features.
+- [Walmart Sales Analysis (SQL)](https://github.com/Mgupta1610/Walmart-Sales-Data-Analysis)  
+  SQL analyses of product lines, sales trends, and customer segments with time-of-day/day/month features.
 
-- [End-to-End ML Data Pipeline](https://github.com/<username>/End-to-End-ML-Data-Pipeline) — ETL that extracts from Redshift, de-duplicates/cleans data, and loads curated CSVs to S3 (CLI & Docker runnable).
+- [End-to-End ML Data Pipeline](https://github.com/Mgupta1610/End-to-End-ML-Data-Pipeline)  
+  ETL that extracts from Redshift, de-duplicates/cleans data, and loads curated CSVs to S3 (CLI & Docker runnable).
 
-- [Banking Performance & Risk Dashboard (Power BI)](https://github.com/<username>/Banking-Performance-Risk-PowerBI) — DAX KPIs for loans, deposits, and risk exposure to guide credit/liquidity decisions.
+- [Banking Performance & Risk Dashboard (Power BI)](https://github.com/Mgupta1610/Banking-Performance-Risk-Analysis-Dashboard)  
+  DAX KPIs for loans, deposits, and risk exposure to guide credit/liquidity decisions.
 
-- [Snowflake ↔ Power BI: End-to-End BI](https://github.com/<username>/Snowflake-PowerBI-End-to-End-BI) — Star schema on Snowflake metadata with dashboards for cost, user activity, and ETL performance.
+- [Snowflake ↔ Power BI: End-to-End BI](https://github.com/Mgupta1610/End-to-End-Business-Intelligence-with-Snowflake-and-Power-BI)  
+  Star schema on Snowflake metadata with dashboards for cost, user activity, and ETL performance.
 
-- [Uber Trip Data Analysis & Visualization](https://github.com/<username>/Uber-Trip-Analysis) — Cleaned trip data and visualized patterns (purpose, mileage, hotspots) with Pandas + Matplotlib/Seaborn/Plotly.
+- [Uber Trip Data Analysis & Visualization](https://github.com/Mgupta1610/Uber-Data-Visualization-and-Insights)  
+  Cleaned trip data and visualized patterns (purpose, mileage, hotspots) with Pandas + Matplotlib/Seaborn/Plotly.
+
 
 ## 🤖 Machine Learning & AI
 
-- [InsightFlow — GenAI-Driven Data Retrieval](https://github.com/<username>/InsightFlow-GenAI-Driven-Data-Retrieval) — RAG-style retrieval app to chat over documents using embeddings and a vector store.
+- [InsightFlow — GenAI-Driven Data Retrieval]()  
+  RAG-style retrieval app to chat over documents using embeddings and a vector store.
 
-- [QueryGenius — LLM Database Interaction](https://github.com/<username>/QueryGenius-LLM-DB-Interaction) — Natural-language-to-SQL interface to query relational data with guardrails and validation.
+- [QueryGenius — LLM Database Interaction]()  
+  Natural-language-to-SQL interface to query relational data with guardrails and validation.
 
-- [SmartSuggest — ML-Based Recommendation Engine](https://github.com/<username>/SmartSuggest-ML-Based-Personalized-Recommendation-Engine) — Personalized recommendations via collaborative/content filtering in notebooks.
+- [SmartSuggest — ML-Based Recommendation Engine]()  
+  Personalized recommendations via collaborative/content filtering in notebooks.
 
-- [Real-Time Underwater Object Detection (YOLOv5/YOLOv8)](https://github.com/<username>/Real-Time-Underwater-Object-Detection-with-YOLOv5-YOLOv8) — YOLO-based detector for underwater scenes with live inference.
+- [Real-Time Underwater Object Detection (YOLOv5/YOLOv8)]()  
+  YOLO-based detector for underwater scenes with live inference.
 
-- [PricePulse — Predict Airbnb Prices](https://github.com/<username>/Price-Pulse-Predict-Airbnb-Prices) — Feature-engineered regression to forecast Airbnb listing prices.
+- [PricePulse — Predict Airbnb Prices]()  
+  Feature-engineered regression to forecast Airbnb listing prices.
 
-
-
-
-
+---
 
 ## 💼 Experience
 
